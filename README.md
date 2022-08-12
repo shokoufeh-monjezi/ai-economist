@@ -52,10 +52,8 @@ Please see our [COVID-19 Simulation Card](https://github.com/salesforce/ai-econo
 - covid19_and_economic_simulation: Introduces a simulation on the COVID-19 pandemic and economy that can be used to study different health and economic policies .
 
 ### Multi-Agent Training
-- [multi_agent_gpu_training_with_warp_drive](https://github.com/salesforce/ai-economist/blob/master/tutorials/multi_agent_gpu_training_with_warp_drive.ipynb) ([Try this on Colab](http://colab.research.google.com/github/salesforce/ai-economist/blob/master/tutorials/multi_agent_gpu_training_with_warp_drive.ipynb)!): Introduces our multi-agent reinforcement learning framework [WarpDrive](https://arxiv.org/abs/2108.13976), which we then use to train the COVID-19 and economic simulation.
-- [multi_agent_training_with_rllib](https://github.com/salesforce/ai-economist/blob/master/tutorials/multi_agent_training_with_rllib.ipynb) ([Try this on Colab](http://colab.research.google.com/github/salesforce/ai-economist/blob/master/tutorials/multi_agent_training_with_rllib.ipynb)!): Shows how to perform distributed multi-agent reinforcement learning with [RLlib](https://docs.ray.io/en/latest/rllib/index.html).
-- [two_level_curriculum_training_with_rllib](https://github.com/salesforce/ai-economist/blob/master/tutorials/two_level_curriculum_learning_with_rllib.md): Describes how to implement two-level curriculum training with [RLlib](https://docs.ray.io/en/latest/rllib/index.html).
-
+- multi_agent_gpu_training_with_warp_drive
+- Introduces our multi-agent reinforcement learning framework [WarpDrive](https://arxiv.org/abs/2108.13976), which we then use to train the COVID-19 and economic simulation.
 
 
 ## Changelog
